@@ -177,7 +177,7 @@ const AUDIENCES: AudienceData[] = [
     plans: [
       { 
         name: "The Full AI Toolkit", 
-        price: "10,000 RWF", 
+        price: "5000 RWF", 
         tagline: "One-Time Payment. \"Everything you need to start automating your lesson plans today.\"",
         features: [
           "The Blueprint PDF: Instant access to our complete library of 50+ premium RGCC prompts, advanced templates, and grading rubrics.",
@@ -186,7 +186,7 @@ const AUDIENCES: AudienceData[] = [
       },
       { 
         name: "The VIP Educator Setup", 
-        price: "20,000 RWF", 
+        price: "10,000 RWF", 
         tagline: "Per Academic Term. \"Your personal AI teaching assistant. We build your term strategy together.\"",
         features: [
           "The Full AI Toolkit: You get the complete Blueprint PDF and all premium templates.",
